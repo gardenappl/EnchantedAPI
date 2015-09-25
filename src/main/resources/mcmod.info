@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "enchapi",
+      "name": "Enchanted API",
+      "description": "Allows modders to override Vanilla enchanting mechanics",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["goldenapple"],
+      "credits": "Ljfa for providing examples of writing coremods",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
